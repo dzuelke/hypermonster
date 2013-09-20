@@ -1,0 +1,18 @@
+{
+	"name": "dzuelke/hypermonster",
+	"type": "library",
+	"description": "Hyper Monster is a toolkit for easily consuming Hypermedia APIs using PHP. Its favorite flavor is chocolate chip XML. OMNOMNOM.",
+	"keywords": ["HTTP", "REST", "Hypermedia", "HATEOAS", "client"],
+	"license": "MIT",
+	
+	"authors": [
+		{
+			"name": "David Zuelke",
+			"email": "dzuelke@gmail.com"
+		}
+	],
+	
+	"require": {
+		"guzzle/guzzle": "~3.7"
+	}
+}
